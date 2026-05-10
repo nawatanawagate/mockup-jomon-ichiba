@@ -8,7 +8,7 @@ NAWAGATE株式会社 クライアント提案用 HTMLモック公開リポジト
 | --- | --- |
 | クライアント | 国分物産館じょうもん市場（霧島市国分） |
 | 提案訪問日 | 2026-05-12（火）14:00-16:00 |
-| 公開URL | （Pages有効化後に追記） |
+| 公開URL | https://nawatanawagate.github.io/mockup-jomon-ichiba/ |
 | 用途 | 提案書同梱URL／QRコード経由の実機モック確認 |
 
 ## 命名規則（NAWAGATE 全社共通ルール）
